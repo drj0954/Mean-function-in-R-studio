@@ -1,1 +1,0 @@
-# Mean-function-in-R-studio
